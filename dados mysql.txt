@@ -1,0 +1,4 @@
+host: srv791.hstgr.io
+database: u796587766_projetoead
+user: u796587766_projetoead
+password: Bisco*ita0
